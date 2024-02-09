@@ -14,12 +14,7 @@ GROUP BY f.f_id, f.f_name
 LIMIT 1000;
 
 
-# Q3. Find top restaurants in terms of number of orders for a given month.
-#SELECT *,monthname(date) FROM zomato.orders # Extract Month Name from date column
-
-#SELECT *,monthname(date) AS 'month' 
-#FROM zomato.orders 
-#WHERE monthname(date) Like 'June'; # Extract date column where it is June
+/* Q3. Find top restaurants in terms of number of orders for a given month. */
 
 SELECT r.r_name,count(*) AS 'month' 
 FROM orders AS o

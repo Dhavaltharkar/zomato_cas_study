@@ -29,6 +29,3 @@
 ## Q8. Find favourite food of customer?
 
 <img src ="https://raw.githubusercontent.com/Dhavaltharkar/zomato_case_study/main/Markdown/8.png">
-
-
-<img src ="https://raw.githubusercontent.com/Dhavaltharkar/zomato_case_study/main/Markdown/7.png">
